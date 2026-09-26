@@ -5,3 +5,5 @@ I'm Siri, a Data Engineering student specializing in Software Development at NTN
 I'm particularly interested in frontend and full-stack development, with a focus on building user-friendly solutions and continuously learning new technologies.
 
 **Technologies:** Java · Kotlin · JavaScript · Vue · Spring Boot · Python · SQL · Docker · Git
+
+*Most of my academic projects and contributions are currently hosted on NTNU's internal GitHub and are therefore not publicly visible.*
